@@ -1,0 +1,12 @@
+Before I accept the generated changes, review all 20 modified files.
+
+Give me:
+1. A list of all files created or modified.
+2. The purpose of each file.
+3. Any unnecessary dependencies or configuration.
+4. Why vite.config.js contains a Django proxy at localhost:8000.
+5. Confirm whether any backend or database has been added.
+
+Our planned backend is Supabase, not Django. We only want the frontend implemented at this stage.
+
+Do not modify anything further. Just provide a review report.
