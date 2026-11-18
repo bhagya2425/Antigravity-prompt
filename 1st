@@ -1,0 +1,13 @@
+I have an existing Stitch project called Campus Events. Stitch MCP has been configured.
+
+First, inspect the currently opened workspace and check whether the Stitch MCP tools are available.
+
+Then use the Stitch MCP tools to list my accessible projects and identify the Campus Events project.
+
+I want you to inspect the existing design and understand its screens.
+
+IMPORTANT:
+- Do not create a new project.
+- Do not modify or delete anything in Stitch.
+- Do not change or generate frontend code yet.
+- Only inspect and report what you find.
