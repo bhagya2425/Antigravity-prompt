@@ -1,0 +1,16 @@
+Now proceed with implementing the Campus Events frontend in the currently opened workspace.
+
+Requirements:
+1. Use my existing Stitch design as the visual reference.
+2. Preserve the existing colors, layout, typography and screen flows.
+3. Implement the homepage, Tech Events, Non-Tech Events, event details and registration form.
+4. Make the navigation and frontend interactions work.
+5. Use responsive design for laptop and mobile.
+
+Important:
+- First inspect the existing workspace files.
+- Do not overwrite existing work unnecessarily.
+- Do not connect Supabase or implement backend functionality yet.
+- Do not add unnecessary features outside the agreed problem statement.
+
+First tell me the frontend framework and files you plan to use. Then proceed with implementation.
