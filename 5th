@@ -1,0 +1,1 @@
+The current vite.config.js still appears to contain the server proxy pointing to localhost:8000. Please remove the entire server.proxy configuration. Keep only the standard React + Vite configuration. Do not modify any other files. Show me the complete updated vite.config.js before asking me to accept.
